@@ -93,4 +93,3 @@ This project is a cross-platform NFT application UI built using Flutter. It prov
    flutter build web
    flutter serve
    ```
->>>>>>> b7c924a (Initial commit)
